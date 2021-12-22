@@ -1,0 +1,9 @@
+body{
+    background-color: purple;
+    color: white;
+}
+a:link {
+    color: #00b0fe;
+    font-family: sans-serif;
+    text-decoration: none;
+}
